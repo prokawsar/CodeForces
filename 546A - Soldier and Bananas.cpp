@@ -1,4 +1,4 @@
-*/ Date: 10.01.16
+/* Date: 10.01.16
 Problem: 546A - Soldier and Bananas
 */
 #include <iostream>
